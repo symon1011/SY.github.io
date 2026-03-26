@@ -1,2 +1,9 @@
-<img src="https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg" 
-     style="width:100px; height:100px; border-radius:50%;">
+<body style="background-color: black; color: white;">
+
+  <img src="https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg" 
+       alt="My Picture"
+       style="width:100px; height:100px; border-radius:50%;">
+
+  <h1>Symon Peñalosa</h1>
+
+</body>
